@@ -77,10 +77,15 @@
 
 <br>
 
-## 📈 Estatísticas
+<div align="center">
 
-[![](https://streak-stats.demolab.com?user=lucasfelipe01&theme=radical)](https://git.io/streak-stats)
+### 📊 Minhas Estatísticas do GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=lucasfelipe01&show_icons=true&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lucasfelipe01&theme=radical&hide_border=true)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfelipe01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasfelipe01&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfelipe01&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
