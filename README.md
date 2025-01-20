@@ -16,8 +16,6 @@
 
 👨‍💻 _Trabalho como assistente de sistemas_
 
-🎥 _Crio conteúdo sobre programação no instagram_
-
 🎯 _Me especializando em Java_ ☕
 
 ---
